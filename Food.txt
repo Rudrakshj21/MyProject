@@ -5,9 +5,3 @@ Fruits with their
 Vitamin A
 Mango 
 Watermelon
-
-Vitamin B
-Orange 
-
-Vitamin C
-Guava
