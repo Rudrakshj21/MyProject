@@ -6,5 +6,11 @@ Vitamin A
 Mango 
 Watermelon
 
+Vitamn B
+Orange 
+
+Vitamin C
+Guava
+
 Vitamin D
 Orange
